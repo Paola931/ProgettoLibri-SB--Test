@@ -1,0 +1,34 @@
+ [
+    {
+      "idLibro": 1,
+      "titolo" : "Odissea",
+      "autore" : "Omero",
+      "copertina" : null,
+      "media_voti" : 0.0,
+      "ce" : "ce"
+    },
+   {
+     "idLibro": 1,
+     "titolo" : "Odissea",
+     "autore" : "Omero",
+     "copertina" : "Odissea.jpg",
+     "media_voti" : 0.0,
+     "ce" : "ce"
+   },
+   {
+     "idLibro": 1,
+     "titolo" : "titolo",
+     "autore" : "autore",
+     "copertina" : "Odissea.jpg",
+     "media_voti" : 0.0,
+     "ce" : "ce"
+   },
+   {
+     "idLibro": 0,
+     "titolo" : "titolo",
+     "autore" : "autore",
+     "copertina" : "Odissea.jpg",
+     "media_voti" : 0.0,
+     "ce" : "ce"
+   }
+   ]

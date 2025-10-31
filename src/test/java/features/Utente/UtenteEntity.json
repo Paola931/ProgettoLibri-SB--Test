@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "nomeUtente": "Claudia",
+    "email": "claudia@mail.com",
+    "password": "password",
+    "ce": "ce",
+    "immagine_profilo": null,
+    "tipo_utenza": "AMMINISTRATORE"
+  },
+  {
+    "id": 1,
+    "nomeUtente": "Tonia",
+    "email": "tonia@mail.com",
+    "password": "password",
+    "ce": null,
+    "immagine_profilo": null,
+    "tipo_utenza": "LETTORE"
+  },
+  {
+    "id": 2,
+    "nomeUtente": "Claudia2",
+    "email": "claudia@mail.com",
+    "password": "password",
+    "ce": "ce",
+    "immagine_profilo": null,
+    "tipo_utenza": "AMMINISTRATORE"
+  },
+  {
+    "id": 2,
+    "nomeUtente": "Tonia2",
+    "email": "tonia@mail.com",
+    "password": "password",
+    "ce": null,
+    "immagine_profilo": null,
+    "tipo_utenza": "LETTORE"
+  },
+  {
+    "id": 2,
+    "nomeUtente": "Clara",
+    "email": "clara@mail.com",
+    "password": "password",
+    "ce": null,
+    "immagine_profilo": null,
+    "tipo_utenza": "LETTORE"
+  }
+
+]
+
+
+
